@@ -1,0 +1,166 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+    font-size: larger;     
+}
+
+
+header {
+    padding-top: 100px;
+   position: relative;
+   background-color: #eaf6f6;    
+}
+
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: #68bfbf;;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: xxx-large;
+}
+
+h1 {
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    color: #68bfbf;
+    font-size: 5.62rem; /*100% = 16px = 1em = 1rem;*/
+    font-weight: bold;
+
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 6px;
+    width: 5%;
+    color: #40514E;
+    margin: 100px auto;
+}
+
+p {
+    color: #40514E;
+    font-weight: bold;
+    line-height: 2;
+   
+}
+
+
+#bottom-cloud {
+    position: absolute;
+    left: 10%;
+    top: 60%;
+    
+}
+
+#top-cloud {
+    position: relative;
+    left: 30%; 
+}
+
+#mountain {
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#profilepic {
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+    border-radius: 100%;
+}
+    
+
+.skill-row {
+    margin: 100px 20%;
+    text-align: left;
+    padding-bottom: 2%;
+    font-weight: bolder;
+   
+
+}
+
+.computer-img {    
+    float: left;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+ .paint-img {
+    float: right;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.contact-me {
+    clear: right;
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    background: linear-gradient(#31e1e7, #11999E);
+    color: #EAF6F6;
+    padding: 10px 25px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 40px;
+    border-radius: 7px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 20px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    
+    
+}
+
+.bottom-container > a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: none;
+    padding: 10px
+}
+
+.bottom-container > p {
+    color: #EAF6F6;
+    padding: 20px;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
+
+
+/* link to pallete
+https://colorhunt.co/palette/e4f9f530e3ca11999e40514e
+*/
+
+
